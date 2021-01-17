@@ -33,8 +33,9 @@ form input {
   height: 50px;
   width: 350px;
   border: 1px solid #ddd;
+  padding: 5px;
 }
-form input:hover {
+form input:focus {
   border: 2px solid lightskyblue;
 }
 .container {
