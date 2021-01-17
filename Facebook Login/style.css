@@ -26,7 +26,7 @@ body {
   font-family: "Source Sans Pro", sans-serif;
   font-weight: normal;
 }
-form input {
+.content-right form input {
   margin-top: 10px;
   margin-bottom: 10px;
   border-radius: 5px;
